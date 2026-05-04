@@ -18,8 +18,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Est3f4nia&theme=date_night&hide_border=true&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Est3f4nia&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Est3f4nia&theme=date_night&hide_border=true&include_all_commits=false&count_private=false" valign="middle" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Est3f4nia&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact" valign="middle" />
 </div>
 
 ## Tech Stack
