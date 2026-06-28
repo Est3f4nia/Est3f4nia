@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=DA7885&font=JetBrains+Mono&size=22&center=true&vCenter=true&width=600&pause=1000&lines=Cybersecurity+Enthusiast;Offensive+Security;Always+Learning+%26+Breaking+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=DA7885&font=JetBrains+Mono&size=22&center=true&vCenter=true&width=600&pause=1000&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Always+Learning%2C+Building+%26+Securing" />
 </p>
 
 # Hi! I'm Tefi 🌸
@@ -9,8 +9,8 @@
 </p>
 
 - Last semester of the *Tecnicatura Universitaria en Programación* at **UTN FRVM**.
-- Focused on secure development & offensive security.
-- Building small tools + documenting labs (HTB, NTA). 
+- Focused on secure development.
+- Building small tools and documenting labs. 
 - **Interested in automation and vulnerability research.**
 
 ---
@@ -54,7 +54,7 @@
 
 <br>
 
-## Contact info ✨
+## Contact info 🩷
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-170F0C?style=for-the-badge&logo=gmail&logoColor=170F0C&color=DA7885)](mailto:istefivillarreal@gmail.com)
