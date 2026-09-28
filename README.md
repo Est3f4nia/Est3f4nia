@@ -5,10 +5,10 @@
 # Hi! I'm Tefi 🌸
 
 <p align="center">
-  <b>Aspiring Software Developer</b> & <b>Cybersecurity Enthusiast</b>
+  <b>Software Developer</b> & <b>Cybersecurity Enthusiast</b>
 </p>
 
-- Completing **Associate Degree in Programming** at UTN FRVM (_Capstone in progress_).
+- **Associate Degree in Programming** at UTN FRVM.
 - Focused on secure development.
 - Building small tools and documenting labs. 
 - **Interested in automation and vulnerability research.**
