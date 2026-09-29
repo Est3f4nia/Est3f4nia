@@ -8,7 +8,7 @@
   <b>Software Developer</b> & <b>Cybersecurity Enthusiast</b>
 </p>
 
-- **Associate Degree in Programming** at UTN FRVM.
+- **Tecnicatura Universitaria en Programación** *(2-year undergraduate technical degree)* — **UTN FRVM**.
 - Focused on secure development.
 - Building small tools and documenting labs. 
 - **Interested in automation and vulnerability research.**
