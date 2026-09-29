@@ -18,8 +18,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Est3f4nia&theme=date_night&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="450"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Est3f4nia&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="300"/>
 </div>
 
