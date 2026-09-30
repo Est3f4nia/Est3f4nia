@@ -8,10 +8,15 @@
   <b>Backend Developer</b> with an interest in <b>Cybersecurity</b>
 </p>
 
-- **Tecnicatura Universitaria en Programación** *(2-year undergraduate technical degree)* — **Universidad Tecnológica Nacional (UTN)**.
 - Mainly working with **Java, Spring Boot, REST APIs, PostgreSQL and Docker**.
 - Interested in **secure development, automation and vulnerability research**.
 - Currently building projects that connect **software development and cybersecurity**.
+
+<br />
+
+**Tecnicatura Universitaria en Programación** *(2-year undergraduate technical degree)* — **Universidad Tecnológica Nacional (UTN)**.
+
+---
 
 ## Featured Projects
 
