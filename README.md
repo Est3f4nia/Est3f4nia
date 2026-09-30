@@ -1,61 +1,46 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=DA7885&font=JetBrains+Mono&size=22&center=true&vCenter=true&width=600&pause=1000&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Always+Learning%2C+Building+%26+Securing" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=DA7885&font=JetBrains+Mono&size=22&center=true&vCenter=true&width=600&pause=1000&lines=Backend+Developer;Java+%26+Spring+Boot;Secure+Development+%26+Cybersecurity" />
 </p>
 
 # Hi! I'm Tefi 🌸
 
 <p align="center">
-  <b>Software Developer</b> & <b>Cybersecurity Enthusiast</b>
+  <b>Backend Developer</b> with an interest in <b>Cybersecurity</b>
 </p>
 
-- **Tecnicatura Universitaria en Programación** *(2-year undergraduate technical degree)* — **UTN FRVM**.
-- Focused on secure development.
-- Building small tools and documenting labs. 
-- **Interested in automation and vulnerability research.**
+- **Tecnicatura Universitaria en Programación** *(2-year undergraduate technical degree)* — **Universidad Tecnológica Nacional (UTN)**.
+- Mainly working with **Java, Spring Boot, REST APIs, PostgreSQL and Docker**.
+- Interested in **secure development, automation and vulnerability research**.
+- Currently building projects that connect **software development and cybersecurity**.
+
+## Featured Projects
+
+### ReconAC
+Web application for active reconnaissance and initial vulnerability assessment.
+
+- Nmap, NVD, EPSS, CISA KEV and CWE integration.
+- Asynchronous scans with jobs, status tracking and callbacks
+
+[Repository →](https://github.com/Est3f4nia/ReconAC.git)
 
 ---
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Est3f4nia&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="300"/>
-</div>
-
-<br>
-
 ## Tech Stack
 
-### Languages & Scripting
-![Python](https://img.shields.io/badge/Python-170F0C?style=for-the-badge&logo=python&logoColor=170F0C&color=DA7885)
-![Java](https://img.shields.io/badge/Java-170F0C?style=for-the-badge&logo=openjdk&logoColor=170F0C&color=DA7885)
-![JavaScript](https://img.shields.io/badge/JavaScript-170F0C?style=for-the-badge&logo=javascript&logoColor=170F0C&color=DA7885)
-![TypeScript](https://img.shields.io/badge/TypeScript-170F0C?style=for-the-badge&logo=typescript&logoColor=170F0C&color=DA7885)
-![PowerShell](https://img.shields.io/badge/PowerShell-170F0C?style=for-the-badge&logo=powershell&logoColor=170F0C&color=DA7885)
-![Bash](https://img.shields.io/badge/Bash-170F0C?style=for-the-badge&logo=gnubash&logoColor=170F0C&color=DA7885)
-
-### Web
-![HTML5](https://img.shields.io/badge/HTML5-170F0C?style=for-the-badge&logo=html5&logoColor=170F0C&color=E1B2A2)
-![CSS3](https://img.shields.io/badge/CSS3-170F0C?style=for-the-badge&logo=css3&logoColor=170F0C&color=E1B2A2)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=170F0C&color=DA7885)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=170F0C&color=DA7885)
-
 ### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-170F0C?style=for-the-badge&logo=spring&logoColor=170F0C&color=DA7885)
-![JWT](https://img.shields.io/badge/JWT-170F0C?style=for-the-badge&logo=jsonwebtokens&logoColor=170F0C&color=DA7885)
-![MongoDB](https://img.shields.io/badge/MongoDB-170F0C?style=for-the-badge&logo=mongodb&logoColor=170F0C&color=E1B2A2)
-![MySQL](https://img.shields.io/badge/MySQL-170F0C?style=for-the-badge&logo=mysql&logoColor=170F0C&color=E1B2A2)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-170F0C?style=for-the-badge&logo=postgresql&logoColor=170F0C&color=E1B2A2)
+Java · Spring Boot · Spring Security · Flask · REST APIs · JPA/Hibernate
+
+### Data & Infrastructure
+PostgreSQL · MySQL · Redis · Flyway · Docker · Vercel
 
 ### Security
-![Wireshark](https://img.shields.io/badge/Wireshark-170F0C?style=for-the-badge&logo=wireshark&logoColor=170F0C&color=DA7885)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-170F0C?style=for-the-badge&logo=burpsuite&logoColor=170F0C&color=DA7885)
-![Metasploit](https://img.shields.io/badge/Metasploit-170F0C?style=for-the-badge&logo=metasploit&logoColor=170F0C&color=DA7885)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-170F0C?style=for-the-badge&logo=kalilinux&logoColor=170F0C&color=DA7885)
+Nmap · Burp Suite · Wireshark · SCAP · CWE · EPSS · CISA KEV
 
-### Tools & Environment
-![Docker](https://img.shields.io/badge/Docker-170F0C?style=for-the-badge&logo=docker&logoColor=170F0C&color=DA7885)
-![Git](https://img.shields.io/badge/Git-170F0C?style=for-the-badge&logo=git&logoColor=170F0C&color=E1B2A2)
-![Jira](https://img.shields.io/badge/Jira-170F0C?style=for-the-badge&logo=jira&logoColor=170F0C&color=E1B2A2)
+### Frontend
+React · TypeScript · JavaScript · HTML · CSS
+
+### Testing & Tools
+JUnit · Mockito · Testcontainers · Maven · Git · OpenAPI
 
 <br>
 
